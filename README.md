@@ -8,9 +8,9 @@ I am a documentation, training, and knowledge management professional with 20+ y
  
 
 ## Portfolio Samples
-8
+
  
-9
+
 ### Technical Documentation
 10
 - User Guides
