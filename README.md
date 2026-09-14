@@ -1,12 +1,12 @@
 # write-the-docs-
 Welcome to my writing portfolio.
-4
+
  
-5
+
 I am a documentation, training, and knowledge management professional with 20+ years of experience creating user-focused content that helps people understand software, processes, and business systems.
-6
+
  
-7
+
 ## Portfolio Samples
 8
  
