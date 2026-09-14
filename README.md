@@ -26,7 +26,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
 - Troubleshooting 
 ## About Me
 
-My background combines technical writing, training, knowledge management, business analysis, and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
+My background combines technical writing, training, knowledge management, business analysis and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
 
  
 
@@ -34,5 +34,6 @@ My background combines technical writing, training, knowledge management, busine
 
  
 
-LinkedIn: [Your LinkedIn URL]
-Email: [Your Email]
+## LinkedIn:##
+www.linkedin.com/in/valentinomaria
+Email: valentinomaria0614@yahoo.com 
