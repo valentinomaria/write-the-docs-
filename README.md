@@ -1,5 +1,6 @@
-# write-the-docs-
-Welcome to my writing portfolio.  Writing has been in my blood my whole life.  Even in grade school, I developed my own monthly newspaper with text and graphics for the class. It was a must-read publication, with intriguing headlines such as “How to Get the Most Out of the Scholastic Book Fair.”  
+# write-the-docs
+
+Writing has been in my blood my whole life.  Even in grade school, I developed my own monthly newspaper with text and graphics for the class. It was a must-read publication, with intriguing headlines such as “How to Get the Most Out of the Scholastic Book Fair.”  
 
 
 That little kid who created a classroom newspaper is now grown into a documentation, training, and knowledge management professional with 20+ years of experience creating user-focused content that helps people understand software, processes and business systems.
