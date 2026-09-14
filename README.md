@@ -3,7 +3,7 @@ Welcome to my writing portfolio.
 
  
 
-I am a documentation, training, and knowledge management professional with 20+ years of experience creating user-focused content that helps people understand software, processes, and business systems.
+I am a documentation, training, and knowledge management professional with 20+ years of experience creating user-focused content that helps people understand software, processes and business systems.
 
  
 
@@ -20,11 +20,10 @@ I am a documentation, training, and knowledge management professional with 20+ y
    
   
 ### Knowledge Management
-21
 - Knowledge Base How To Article
 - FAQ
 - Release Notes
- - Troubleshooting 
+- Troubleshooting 
 ## About Me
 
 My background combines technical writing, training, knowledge management, business analysis, and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
