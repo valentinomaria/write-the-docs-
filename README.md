@@ -34,6 +34,6 @@ My background combines technical writing, training, knowledge management, busine
 
  
 
-## LinkedIn:##
+
 www.linkedin.com/in/valentinomaria
-Email: valentinomaria0614@yahoo.com 
+valentinomaria0614@yahoo.com 
