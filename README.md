@@ -16,13 +16,14 @@ That little kid who created a classroom newspaper has now grown into a documenta
 
 - [User Process Guide](./User%20Process%20Guides/)   
 - Quick Reference Guide
+- Release Notes 
      
   
 ### Knowledge Management
 - Knowledge Base How To Article
 - FAQ
-- Release Notes
 - Troubleshooting 
+  
 ## About Me
 
 My background combines technical writing, training, knowledge management, business analysis and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
