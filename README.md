@@ -15,14 +15,15 @@ That little kid who created a classroom newspaper has now grown into a documenta
 
 
 - [User Process Guide](./User%20Process%20Guides/)   
-- Quick Reference Guide
-- Release Notes 
+- [Quick Reference Guide](./Quick%20Reference%20Guide/)
+- [Job Aid](./Job%20Aid/)
+- [Release Notes](./Release%20Notes/)
      
   
 ### Knowledge Management
-- Knowledge Base How To Article
-- FAQ
-- Troubleshooting Article 
+- [Knowledge Base How To Article](./Knowledge%20Base%20How%20To%20Article/)
+- [FAQ](./FAQ/)
+- [Troubleshooting Article](./Troubleshooting%20Article/)
   
 ## About Me
 
