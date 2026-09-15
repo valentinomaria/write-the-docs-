@@ -13,11 +13,8 @@ That little kid who created a classroom newspaper has now grown into a documenta
 
 ### Documentation
 
-- User Process Guides
-- [View User Process Guides](./User%20Process%20Guides/)
 
-A selection of sample user process guides demonstrating technical writing, documentation, and user-focused instructional design.
-  
+- [User Process Guides](./User%20Process%20Guides/)   
 - Quick Reference Guides
 - SOPs
 - Process Documentation
