@@ -22,7 +22,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
 ### Knowledge Management
 - Knowledge Base How To Article
 - FAQ
-- Troubleshooting 
+- Troubleshooting Article 
   
 ## About Me
 
