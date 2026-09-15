@@ -1,1 +1,1 @@
-This folder contains sample user process guides.  
+This folder contains a sample user process guide.  
