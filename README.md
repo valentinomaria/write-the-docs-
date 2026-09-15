@@ -14,11 +14,9 @@ That little kid who created a classroom newspaper has now grown into a documenta
 ### Documentation
 
 
-- [User Process Guides](./User%20Process%20Guides/)   
-- Quick Reference Guides
-- SOPs
-- Process Documentation
-   
+- [User Process Guide](./User%20Process%20Guides/)   
+- Quick Reference Guide
+     
   
 ### Knowledge Management
 - Knowledge Base How To Article
