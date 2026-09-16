@@ -27,7 +27,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
   
 ## About Me
 
-My background combines technical writing, training, knowledge management, business analysis and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
+My background combines documentation, user/technical writing, training, knowledge management, business analysis and IT leadership. I specialize in translating complex concepts into clear, user-friendly content.
 
  
 
