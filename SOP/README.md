@@ -1,1 +1,1 @@
-This folder contains a sample SOP example. 
+This folder contains a sample Standard Operating Procedure (SOP).  
