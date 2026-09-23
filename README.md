@@ -28,6 +28,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
 
 ## Training 
 - [Rise360](./Rise360/)
+- [Training Presentation](./Training%20Presentation/)
   
 ## About Me
 
