@@ -25,6 +25,9 @@ That little kid who created a classroom newspaper has now grown into a documenta
 - [Knowledge Base How To Article](./Knowledge%20Base%20How%20To%20Article/)
 - [Knowledge Base Troubleshooting Article](./Knowledge%20Base%20Troubleshooting%20Article/)
 - [Knowledge Base FAQ](./Knowledge%20Base%20FAQ/)
+
+## Training 
+- [Rise360](./Rise360/)
   
 ## About Me
 
