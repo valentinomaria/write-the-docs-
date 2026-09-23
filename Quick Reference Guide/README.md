@@ -1,1 +1,1 @@
-This folder contains a sample quick reference guide. 
+This folder contains a sample Quick Reference Guide. 
