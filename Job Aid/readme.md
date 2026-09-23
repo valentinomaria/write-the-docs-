@@ -1,1 +1,1 @@
-This folder contains a sample job aid.  
+This folder contains a sample Job Aid.  
