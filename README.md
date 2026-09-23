@@ -17,6 +17,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
 - [User Process Guide](./User%20Process%20Guide/)   
 - [Quick Reference Guide](./Quick%20Reference%20Guide/)
 - [Job Aid](./Job%20Aid/)
+- [SOP](./SOP/)
 - [Release Notes](./Release%20Notes/)
      
   
