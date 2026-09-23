@@ -1,1 +1,1 @@
-This folder contains a sample knowledge base how to article.  
+This folder contains a sample Knowledge Base How To Article.  
