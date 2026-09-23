@@ -23,7 +23,7 @@ That little kid who created a classroom newspaper has now grown into a documenta
 ### Knowledge Management
 - [Knowledge Base How To Article](./Knowledge%20Base%20How%20To%20Article/)
 - [FAQ](./FAQ/)
-- [Troubleshooting Article](./Troubleshooting%20Article/)
+- [Knowledge Base FAQ](./Knowledge%20Base%20FAQ/
   
 ## About Me
 
