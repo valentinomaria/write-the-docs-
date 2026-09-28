@@ -1,1 +1,1 @@
-This folder contains a sample training presentation. 
+This folder contains a sample Training Presentation. 
